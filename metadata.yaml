@@ -1,0 +1,53 @@
+_repo: Peck-s-Bad-Boy-in-an-airship_72237
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lederer, Charles
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '56607'
+    url: http://www.gutenberg.org/2009/agents/56607
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Lederer_(cartoonist)
+creator:
+  author:
+    agent_name: Peck, George W. (George Wilbur)
+    alias: Peck, George Wilbur
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '3383'
+    url: http://www.gutenberg.org/2009/agents/3383
+    wikipedia: https://en.wikipedia.org/wiki/George_Wilbur_Peck
+description: ''
+gutenberg_issued: '2023-11-27'
+identifiers:
+  gutenberg: '72237'
+language: en
+pgterms:marc905: 20130323150358peck
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Gísli Valgeirsson, Rod Crawford, Dave Morgan and
+  the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aChicago :$bStanton and Van Vliet Co., $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcsh 'South Africa -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Tribes -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+summary: '"A story relating the adventures of Peck''s bad boy and his pa who are sent
+  to Europe to investigate airships with an idea of using them in the United States
+  Navy. Tells of their adventures in Europe also in South Africa where the airship
+  is used in hunting wild animals."--title page.'
+title: Peck's Bad Boy in an airship
+url: http://www.gutenberg.org/ebooks/72237
